@@ -383,7 +383,7 @@
                 "textTitle": "SIA licence training made EZ\n<br><br>",
                 "overlay": true,
                 "contentAlign": "center",
-                "text": "Looking to get work within the Private Security Industry, such as Door Supervision, Security Guarding or CCTV Operator, working in shops, factories, clubs, events etc? Then look no further EZ Training is a local company, based in Newtownabbey, Northern Ireland.<br>",
+                "text": "Looking to get work within the Private Security Industry, such as Door Supervision, Security Guarding or CCTV Operator, working in shops, factories, clubs, events etc? Then look no further for your course & qualification in order to apply for an SIA licence. EZ Training is a local company, based in Newtownabbey, Northern Ireland.<br>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-primary\" data-app-placeholder=\"Type Text\" href=\"About Us.html#top\" data-toolbar=\"-mbrBtnMove\">Find Out More</a> ",
                 "overlayOpacity": "0.4"
               },
