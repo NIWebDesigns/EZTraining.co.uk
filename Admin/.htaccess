@@ -1,4 +1,4 @@
 AuthType Basic
-AuthName "EZTraining.co.uk/Admin"
+AuthName "Protected Site"
 AuthUserFile /EZTraining.co.uk/Admin/.htpasswd
 require valid-user
