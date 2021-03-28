@@ -1,7 +1,0 @@
-AuthUserFile /.htpassword
-AuthType Basic
-AuthName "Protected Settings Page"
-
-<Files "/Admin/index.html">
-  Require valid-user
-</Files>
