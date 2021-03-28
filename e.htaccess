@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "EZTraining.co.uk/Admin"
+AuthUserFile /usr/home/yourusername/.htpasswd
+require valid-user
