@@ -1,4 +1,4 @@
 AuthType Basic
 AuthName "Protected Site"
-AuthUserFile EZTraining.co.uk/Admin/.htpassword
+AuthUserFile Admin/.htpassword
 Require valid-user
