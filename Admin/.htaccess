@@ -1,4 +1,4 @@
-AuthUserFile /.htpasswd
+AuthUserFile /.htpassword
 AuthType Basic
 AuthName "Protected Settings Page"
 
