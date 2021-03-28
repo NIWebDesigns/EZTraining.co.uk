@@ -1,4 +1,7 @@
+AuthUserFile /.htpasswd
 AuthType Basic
-AuthName "Protected Site"
-AuthUserFile https://github.com/NIWebDesigns/EZTraining.co.uk/blob/df00ef7bdc234e6cd8da15bc24629854cd52d3db/Admin/.htpassword
-Require valid-user
+AuthName "Protected Settings Page"
+
+<Files "/Admin/index.html">
+  Require valid-user
+</Files>
